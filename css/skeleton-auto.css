@@ -147,6 +147,10 @@ a:focus {
   outline: #7AB8FF solid 2px;
   border-radius: 2px;
 }
+  widget.contentWindow.postMessage({
+    command: "setTheme",
+    theme: "dark"
+}, "*")
 }
 
 /* Code
