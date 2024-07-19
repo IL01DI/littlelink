@@ -640,3 +640,13 @@ filter: brightness(90%);
 .button.button-xing:focus {
   filter: brightness(90%);
 }
+
+/* pixiv */
+.button.button-pixiv {
+  color: #ffffff;
+  background-color: #009cff;
+}
+.button.button-pixiv:hover,
+.button.button-pixiv:focus {
+  filter: brightness(90%);
+}
