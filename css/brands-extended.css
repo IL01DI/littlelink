@@ -650,3 +650,31 @@ filter: brightness(90%);
 .button.button-pixiv:focus {
   filter: brightness(90%);
 }
+
+/* Musis */
+.button.button-musis {
+  color: #ffffff;
+  background-color: #222831;
+}
+.button.button-musis:hover,
+.button.button-musis:focus {
+  filter: brightness(90%);
+}
+/* Musicboard */
+.button.button-musicboard {
+  color: #ffffff;
+  background-color: #1214fd;
+}
+.button.button-musicboard:hover,
+.button.button-musicboard:focus {
+  filter: brightness(90%);
+}
+/* Raindrop */
+.button.button-raindrop {
+  color: #ffffff;
+  background-color: #121244;
+}
+.button.button-raindrop:hover,
+.button.button-raindrop:focus {
+  filter: brightness(90%);
+}
